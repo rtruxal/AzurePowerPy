@@ -1,0 +1,5 @@
+Figure out how to keep authentication after initial login cmd
+-Idears:
+	a. keep PS alive as a daemon?
+    b. authenticate with AzureAD (awful)
+    c. login before every command (also awful)
