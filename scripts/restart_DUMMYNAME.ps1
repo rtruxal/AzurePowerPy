@@ -1,0 +1,1 @@
+﻿Restart-AzureRmVM -Name DUMMYNAME -ResourceGroupName DUMMYGROUP
